@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 97987ed6b92563749ad806b03867dcf9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 256
+        width: 101
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853a4812bd5aa5e44a64221df178b739
+      internalID: 1392498328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 279
+        width: 101
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f6c997cf38fcb47bd27932c27314b4
+      internalID: -1525992413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 202
+        width: 101
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897bb3a755cff0a47a23ad5983951b6a
+      internalID: -1240483986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 223
+        width: 101
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ffbad81bb4f6b48a8129995da02684
+      internalID: 15778130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 147
+        width: 101
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2784bf53cf2724a891a7a5ea1681d0
+      internalID: 1744494309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 173
+        width: 102
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd4dd5897596324695fdd94377dcb71
+      internalID: 138277257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 96
+        width: 101
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53e878d721b1d24c85cfce4114a141f
+      internalID: 1701787737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 123
+        width: 102
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a000bbc9c2852f42b67dd5d645b631d
+      internalID: -2100661901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 68
+        width: 102
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35d23b5dc8e6854e9fd98be2acb0fbb
+      internalID: 282446229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_1: -1525992413
+      Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_0: 1392498328
+      Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_3: 15778130
+      Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_4: 1744494309
+      Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_7: -2100661901
+      Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_5: 138277257
+      Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_8: 282446229
+      Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_6: 1701787737
+      Rpg_Game_PNG_Image__Cool_Rpg_Game_Buttons_For_2d_Casual_Game_Or_Website_Or_Application__Game__Button__Rpg_PNG_Image_For_Free_Download-removebg-preview_2: -1240483986
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
